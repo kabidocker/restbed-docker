@@ -1,0 +1,5 @@
+version: '3'
+services:
+  conantutorial-hello:
+    build: .
+    image: kabiliravi/restbed:latest
